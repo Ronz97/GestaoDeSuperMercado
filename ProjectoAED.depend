@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1561470369 source:c:\users\ronz\documents\codeblogs\projectoaed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HEADER.h"
+
+1561470242 source:c:\users\ronz\documents\codeblogs\projectoaed\gsm.c
+	"HEADER.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561469558 c:\users\ronz\documents\codeblogs\projectoaed\header.h
+
+1561493942 source:c:\users\k3nny\desktop\projectoaed\projectoaed\gsm.c
+	"HEADER.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561469558 c:\users\k3nny\desktop\projectoaed\projectoaed\header.h
+
+1561470369 source:c:\users\k3nny\desktop\projectoaed\projectoaed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HEADER.h"
+
